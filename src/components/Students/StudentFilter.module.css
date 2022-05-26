@@ -1,0 +1,26 @@
+.student-filter {
+  padding: 0 1rem;
+}
+
+.student-filter__control {
+  display: flex;
+  width: 100%;
+  align-items: baseline;
+  justify-content: flex-end;
+  margin: 1rem 0;
+}
+
+.student-filter label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.student-filter select {
+  font: inherit;
+  padding: 0.5rem 2rem;
+  margin-left: 0.5rem;
+  font-weight: bold;
+  color: white;
+  background-color: #2a6891;
+  border-color: #2a6891;
+}
